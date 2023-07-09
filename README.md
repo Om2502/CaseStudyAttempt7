@@ -1,5 +1,7 @@
 # OpenAI API Excel integration
 
+Goal was to create an In-house AI assistent for Excel to be used in the Crowe Case Study Competition by Team- To Peach Their Own (2023)
+
 
 This repository contains an example OpenAI API integration for Excel. It allows users to query the API to automatically generate Excel tables about topics.
 
